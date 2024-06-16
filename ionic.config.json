@@ -1,0 +1,7 @@
+{
+  "name": "MusicaCRUDTabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
